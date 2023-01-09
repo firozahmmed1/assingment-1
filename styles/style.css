@@ -45,5 +45,84 @@
     color:#FFFFFF;
     margin-left: 273px;
     margin-bottom: 200px;
+}
     
 /* Header CSS End */
+
+/* <!-- Main Area Start-First Part --> */
+.main-area{
+    margin: 50px 200px;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 50px;
+    
+}
+.main-sec-1, img{
+   width: 500px;
+   height: auto;
+}
+.main-sec-2{
+    padding-top: 150px;
+    padding-right: 90px;
+    margin-left: 100px;
+} 
+.main-text1{
+    text-align: right;
+    font-weight: 700;
+    font-size: 40px;
+    margin-bottom: 0px;
+}
+
+.main-text2{
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    margin-left: 13px;
+    margin-bottom: 20px;
+    margin-top: 24px;
+}
+
+.main-list1{
+    margin-left: 13px;
+}
+.main-list1 span{
+    display: block;
+    text-align: left;
+    font-weight: 400;
+    font-size: 16px;
+    color: #444343;
+    padding: 5px 0px;
+}
+
+.fa-solid{
+    color: #16D887;
+}
+/* <!-- Main Area end-First Part -->*/
+
+/* <!-- Main Area Start-Second Part --> */
+.main-area-2{
+    background: #F15B22;
+    margin: 130px 230px;
+    
+}
+.second-text2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 40px;
+    color: #151414;
+    margin: 0px;
+    padding-bottom: 49px;
+
+}
+
+.skills img{
+    width: 92px;
+    height: auto;
+}
+
+.skills{
+    display: flex;
+    justify-content: space-between;
+}
+/* <!-- Main Area end-Second Part --> */
