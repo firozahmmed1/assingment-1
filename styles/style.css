@@ -17,7 +17,7 @@
     text-align: right;
     font-weight: 700;
     font-size: 65px;
-    padding-right: 200px;
+    padding-right: 170px;
     padding-top: 210px;
     margin-bottom: 0px;
    
@@ -25,7 +25,7 @@
 }
 .p-text1{
     text-align: right;
-    padding-right: 200px;
+    padding-right: 167px;
     margin-top: 0px;
     font-weight: 400;
     font-size: 16px;
@@ -43,7 +43,7 @@
     font-Weight:600;
     font-Size:20px;
     color:#FFFFFF;
-    margin-left: 273px;
+    margin-left: 304px;
     margin-bottom: 200px;
 }
     
@@ -57,7 +57,7 @@
     padding-top: 50px;
     
 }
-.main-sec-1, img{
+.main-sec-1 .img-1{
    width: 500px;
    height: auto;
 }
@@ -102,7 +102,6 @@
 
 /* <!-- Main Area Start-Second Part --> */
 .main-area-2{
-    background: #F15B22;
     margin: 130px 230px;
     
 }
@@ -125,4 +124,151 @@
     display: flex;
     justify-content: space-between;
 }
+.skills h2{
+    font-Weight:700;
+    font-size:30px;
+    margin-bottom: 0px;
+    padding-top: 30px;
+    color: #151414;
+}
+
+.skills p{
+    font-weight: 500;
+    font-size: 25px;
+    color: #737272;
+    padding-top: 16px;
+}
 /* <!-- Main Area end-Second Part --> */
+
+/* <!-- Main Area Start-Third Part --> */
+.main-area-3{
+    margin: 130px 210px;
+    background-image: url(../images/watch.png);
+    background-size: cover;
+    width: 1003px;
+    height:auto;
+}
+.main-text3{
+    background-image: url(../images/gradient2.png);
+    background-size: cover; 
+    width: 950px;
+    height: 300px;
+    border-radius: 5px;
+}
+.main-text3, h1{
+    font-weight: 700;
+    font-size: 40px;
+    color:#FFFFFF;
+    padding-left: 53px;
+    padding-top: 31px;
+    margin: 0px;
+}
+.btn-3{
+    padding-left: 52px;
+    padding-top: 26px;
+}
+.btn-3 button{
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 20px;
+    border: 1px solid #F15B22;
+    color: #F15B22;
+}
+/* <!-- Main Area end-Third Part --> */
+
+/* <!-- Footter Area Start --> */
+.footer-start{
+    background-color: #151414;
+    margin: 0px;
+}
+
+.footer-1{
+    margin: 130px 210px;
+    display: flex;
+    justify-content: space-between;
+}
+.footer-2{
+    color: #FFFFFF;
+}
+.footer-head-1{
+  padding-left: 0px;
+  padding-top: 30px;
+  padding-bottom: 16px;
+  font-weight: 700;
+  font-size: 45px;
+}
+.footer-3{
+    color: #FFFFFF;
+}
+.footer-text1{
+    font-weight: 400;
+    font-size: 16px;
+    width: 485px;
+    height: 78px;
+    padding-bottom: 24px;
+
+}
+.footer-p1{
+    padding-bottom: 10px;
+}
+.footer-email{
+    font-weight: 400;
+    font-size: 16px;
+}
+.footer-p3{
+    padding-bottom: 32px;
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.social-list{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    padding-left: 0px;
+}
+.fa-brands{
+    font-size: 50px;
+    padding: 0px;
+    margin: 0px;
+    color: #FFFFFF;
+}
+
+.footer-social{
+    margin-left: 0px;
+    width: 180px;
+    padding-bottom: 130px;
+}
+.footer-3{
+    margin-right: -82px;
+}
+.footer-text2{
+    margin-bottom:0px;
+    font-weight: 600;
+    font-size: 25px;
+    margin-top: 34px;
+}
+.footer-input{
+    width: 325px;
+    height: 64px;
+    border: 1px solid #FFFFFF;
+    border-radius: 8px;
+    background: #151414;
+    padding-left: 18px;
+    margin-bottom: 16px
+}
+.footer-btn{
+    width: 170.11px;
+    height: 64px;
+    background: #FFFFFF;
+    border-radius: 8px;
+}
+.btn-text3{
+    font-weight: 600;
+    font-size: 20px;
+    color: #F15B22;
+
+}
+/* <!-- Footter Area Start --> */
